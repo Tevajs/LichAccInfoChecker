@@ -8,3 +8,7 @@ Finish the program so that it works with my last one: ([link](https://github.com
 *Redo the receipt of information: instead of a file, by connecting it to the nickname-finder program.
 
 Add the ability to display information about badges in the profile: top marathon, top in variants, patron, lichess coach, moderator, verified account, developer, etc.
+The information in the file should look like this:
+Lichess: Nickname
+
+You should have created a file with the name from the code
